@@ -1,4 +1,5 @@
-Given an array nums of n integers, return true if the array nums is sorted in non-decreasing order or else false.
+Complete the function printNumber which takes an integer input from the user and prints it on the screen.
+
 class Solution:
     def printNumber(self):
         num = int(input())
@@ -7,3 +8,4 @@ class Solution:
 sol=Solution()
 
 sol.printNumber()
+
